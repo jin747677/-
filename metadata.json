@@ -1,0 +1,6 @@
+{
+  "name": "우리반 세시풍속 지식백과",
+  "description": "초등학교 3학년 사회 세시풍속(추석과 동지) 안내된 탐구를 위한 우리반 지식백과",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
